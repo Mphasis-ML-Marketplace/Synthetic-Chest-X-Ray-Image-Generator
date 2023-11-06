@@ -10,4 +10,4 @@ In medical domain, its often challenging to collect large and diverse dataset du
 * Mphasis Synth Studio is an Enterprise Synthetic Data Platform for generating high-quality synthetic data that can help derive and monetize trustworthy business insights, while preserving privacy and protecting data subjects. Build reliable and high accuracy models when no or low data is available.
 
 ## Amazon Marketplace Link
-The product can be found [here]()
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-yf5gbgwj7jf4k)
